@@ -115,7 +115,7 @@
                             <ul class="list-unstyled">
                                 <li><i class="fas fa-map-marker-alt"></i><span class="sr-only">Location:</span>Accra, Ghana</li>
                                 <li><i class="fas fa-envelope"></i><span class="sr-only">Email:</span><a href="#">nurudeenh@gmail.com</a></li>
-                                <li><i class="fas fa-link"></i><span class="sr-only">Website:</span><a href="#">https://www.nurudeen.com</a></li>
+                                <li><i class="fas fa-link"></i><span class="sr-only">Website:</span><a href="{{url('/')}}">https://www.nurudeenhabibu.com</a></li>
                             </ul>
                         </div><!--//content-->  
                     </div><!--//section-inner-->                 
@@ -133,7 +133,7 @@
                                 <div class="item">
                                     <h3 class="level-title">PHP (Laravel)<span class="level-label" data-placement="left" data-animation="true" >Medium</span></h3>
                                     <div class="level-bar">
-                                        <div class="level-bar-inner" data-level="96%">
+                                        <div class="level-bar-inner" data-level="90%">
                                         </div>                                      
                                     </div><!--//level-bar-->                                 
                                 </div><!--//item-->
@@ -141,7 +141,7 @@
                                 <div class="item">
                                     <h3 class="level-title">MySql &amp; PostgreSql<span class="level-label" data-placement="left" data-animation="true" >Medium</span></h3>
                                     <div class="level-bar">
-                                        <div class="level-bar-inner" data-level="96%">
+                                        <div class="level-bar-inner" data-level="90%">
                                         </div>                                      
                                     </div><!--//level-bar-->                                 
                                 </div><!--//item-->
@@ -149,7 +149,7 @@
                                 <div class="item">
                                     <h3 class="level-title">Javascript &amp; jQuery<span class="level-label" data-placement="left" data-animation="true" >Base</span></h3>
                                     <div class="level-bar">
-                                        <div class="level-bar-inner" data-level="96%">
+                                        <div class="level-bar-inner" data-level="90%">
                                         </div>                                      
                                     </div><!--//level-bar-->                                 
                                 </div><!--//item-->
@@ -157,7 +157,7 @@
                                 <div class="item">
                                     <h3 class="level-title">Vuejs<span class="level-label" data-placement="left" data-animation="true" >Medium</span></h3>
                                     <div class="level-bar">
-                                        <div class="level-bar-inner" data-level="96%">
+                                        <div class="level-bar-inner" data-level="90%">
                                         </div>                                      
                                     </div><!--//level-bar-->                                 
                                 </div><!--//item-->
@@ -165,7 +165,7 @@
                                 <div class="item">
                                     <h3 class="level-title">HTML5 &amp; CSS3<span class="level-label" data-placement="left" data-animation="true" >Medium</span></h3>
                                     <div class="level-bar">
-                                        <div class="level-bar-inner" data-level="96%">
+                                        <div class="level-bar-inner" data-level="90%">
                                         </div>                                      
                                     </div><!--//level-bar-->                                 
                                 </div><!--//item-->
@@ -173,7 +173,7 @@
                                 <div class="item">
                                     <h3 class="level-title">Rest Api &amp; Json <span class="level-label" data-placement="left" data-animation="true"> Base</span></h3>
                                     <div class="level-bar">
-                                        <div class="level-bar-inner" data-level="96%">
+                                        <div class="level-bar-inner" data-level="90%">
                                         </div>                                      
                                     </div><!--//level-bar-->                                 
                                 </div><!--//item-->
@@ -181,7 +181,7 @@
                                 <div class="item">
                                     <h3 class="level-title">Server, Apache2 &amp; Nginx<span class="level-label" data-placement="left" data-animation="true">Base</span></h3>
                                     <div class="level-bar">
-                                        <div class="level-bar-inner" data-level="96%">
+                                        <div class="level-bar-inner" data-level="90%">
                                         </div>                                      
                                     </div><!--//level-bar-->                                 
                                 </div><!--//item-->

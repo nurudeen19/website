@@ -21,6 +21,8 @@
         
     <!-- Theme CSS -->  
     <link id="theme-style" rel="stylesheet" href="{{asset('css/styles.css')}}">
+    <!-- Cookie consent -->
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.css" />
     
 </head> 
 
@@ -48,7 +50,7 @@
     <footer class="footer">
         <div class="container text-center">
                 <!--/* This template is free as long as you keep the attribution link below. Thank you for your support. :) If you'd like to use the template without the attribution, you can buy the commercial license via our website: themes.3rdwavemedia.com */-->
-                <small class="copyright">Designed with <i class="fas fa-heart"></i> by <a href="https://themes.3rdwavemedia.com" target="_blank">Xiaoying Riley</a> for developers</small>
+                <small class="copyright">Designed with <i class="fas fa-heart"></i> by <a href="" target="_blank">Xiaoying Riley</a> for developers</small>
         </div><!--//container-->
     </footer><!--//footer-->
  
@@ -57,6 +59,25 @@
 <script type="text/javascript" src="{{asset('plugins/popper.min.js')}}"></script> 
 <script type="text/javascript" src="{{asset('plugins/bootstrap/js/bootstrap.min.js')}}"></script>
     <!-- custom js -->
-<script type="text/javascript" src="{{asset('js/main.js')}}"></script>            
+<script type="text/javascript" src="{{asset('js/main.js')}}"></script>
+<!-- Cookie consent -->
+<script src="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.js" data-cfasync="false"></script>
+<script>
+window.cookieconsent.initialise({
+  "palette": {
+    "popup": {
+      "background": "#efefef",
+      "text": "#404040"
+    },
+    "button": {
+      "background": "#8ec760",
+      "text": "#ffffff"
+    }
+  },
+  "showLink": false,
+  "theme": "classic",
+  "position": "bottom-right"
+});
+</script>
 </body>
 </html> 

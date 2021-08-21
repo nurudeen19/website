@@ -22,46 +22,75 @@
                         <h2 class="heading">Latest Projects</h2>
                         <div class="content">    
                             <hr class="divider" />
-                            <div class="item row">
-                                <a class="col-md-4 col-12" href="https://jackbuildgh.com/" target="_blank">
-                                <img class="img-fluid project-image rounded shadow-sm" src="{{asset('images/projects/project-1.png')}}" alt="project name" />
-                                </a>
-                                <div class="desc col-md-8 col-12">
-                                    <h3 class="title"><a href="https://jackbuildgh.com/" target="_blank">JACK-BUILD</a></h3>
-                                    <p class="mb-2">JACK-BUILD comes in with the assurance of providing you with the peace of mind to own your dream home, from land acquisition, planning, construction, to property management (rent/sale) and maintenance.</p>
-                                    <p><a class="more-link" href="https://jackbuildgh.com/" target="_blank"><i class="fas fa-external-link-alt"></i>Find out more</a></p>
-                                </div><!--//desc-->                          
-                            </div><!--//item-->
-                            
-                            <div class="item row">
-                                <a class="col-md-4 col-12" href="http://www.improtechsystems.com/" target="_blank">
-                                <img class="img-fluid project-image rounded shadow-sm" src="{{asset('images/projects/project-2.png')}}" alt="project name" />
-                                </a>
-                                <div class="desc col-md-8 col-12">
-                                    <h3 class="title"><a href="http://www.improtechsystems.com/" target="_blank">Improtech Systems Solutions</a></h3>
-                                    <p class="mb-2">IMPROTECH is an IT solutions company taking advantage of a significant gap in networking training and consultancy services across Sub-Saharan Africa.</p>
-                                    <p><a class="more-link" href="http://www.improtechsystems.com/" target="_blank"><i class="fas fa-external-link-alt"></i>Find out more</a></p>
-                                </div><!--//desc-->                          
-                            </div><!--//item-->
-                            
-                             <div class="item row">
-                                <a class="col-md-4 col-12" href="http://flexdigitals.net/" target="_blank">
-                                <img class="img-fluid project-image rounded shadow-sm" src="{{asset('images/projects/project-3.png')}}" alt="project name" />
-                                </a>
-                                <div class="desc col-md-8 col-12">
-                                    <h3 class="title">Flex Digitals<a href="http://flexdigitals.net/" target="_blank"></a></h3>
-                                    <p class="mb-2">
-                                        inspires and engages discerning businesses and their consumers.
-                                    </p>
-                                    <p><a class="more-link" href="http://flexdigitals.net/" target="_blank"><i class="fas fa-external-link-alt"></i>Find out more</a></p>
-                                </div><!--//desc-->                          
-                            </div><!--//item-->
+                            <div class="row">
+                                <div class="item col-md-6">
+                                    <a class=" col-12" href="https://jackbuildgh.com/" target="_blank">
+                                    <img class="img-fluid project-image rounded shadow-sm" src="{{asset('images/projects/project-1.png')}}" alt="project name" />
+                                    </a>
+                                    <div class="desc  col-12">
+                                        <h3 class="title"><a href="https://jackbuildgh.com/" target="_blank">JACK-BUILD</a></h3>
+                                        <p><a class="more-link" href="https://jackbuildgh.com/" target="_blank"><i class="fas fa-external-link-alt"></i>Find out more</a></p>
+                                    </div><!--//desc-->                          
+                                </div><!--//item-->
+
+                                <div class="item col-md-6">
+                                    <a class=" col-12" href="https://jackbuildgh.com/" target="_blank">
+                                    <img class="img-fluid project-image rounded shadow-sm" src="{{asset('images/projects/project-4.png')}}" alt="project name" />
+                                    </a>
+                                    <div class="desc col-12">
+                                        <h3 class="title"><a href="https://jackbuildgh.com/" target="_blank">AGRI MARKET</a></h3>
+                                        <p><a class="more-link" href="https://agrimarketgh.com/" target="_blank"><i class="fas fa-external-link-alt"></i>view project</a></p>
+                                    </div><!--//desc-->                          
+                                </div><!--//item-->
+                            </div>
+                            <div class="row">
+                                <div class="item col-md-6">
+                                    <a class=" col-12" href="https://jackbuildgh.com/" target="_blank">
+                                    <img class="img-fluid project-image rounded shadow-sm" src="{{asset('images/projects/project-7.png')}}" alt="project name" />
+                                    </a>
+                                    <div class="desc  col-12">
+                                        <h3 class="title"><a href="https://cre8ivehouse.us/" target="_blank">CRE8IVE HOUSE</a></h3>
+                                        <p><a class="more-link" href="https://jackbuildgh.com/" target="_blank"><i class="fas fa-external-link-alt"></i>Find out more</a></p>
+                                    </div><!--//desc-->                          
+                                </div><!--//item-->
+
+                                <div class="item col-md-6">
+                                    <a class=" col-12" href="https://jackbuildgh.com/" target="_blank">
+                                    <img class="img-fluid project-image rounded shadow-sm" src="{{asset('images/projects/project-8.png')}}" alt="project name" />
+                                    </a>
+                                    <div class="desc col-12">
+                                        <h3 class="title"><a href="https://jackbuildgh.com/" target="_blank">MY HOME CARE PLAN</a></h3>
+                                        <p><a class="more-link" href="http://api.rmp.fillyjobs.com/api/documentation" target="_blank"><i class="fas fa-external-link-alt"></i>view project</a></p>
+                                    </div><!--//desc-->                          
+                                </div><!--//item-->
+                            </div>
+                            <div class="row">
+                                <div class="item col-md-6">
+                                    <a class="col-12" href="https://jackbuildgh.com/" target="_blank">
+                                    <img class="img-fluid project-image rounded shadow-sm" src="{{asset('images/projects/project-6.png')}}" alt="project name" />
+                                    </a>
+                                    <div class="desc col-12">
+                                        <h3 class="title"><a href="https://improtechci.com/" target="_blank">IMPROTECH CI</a></h3>
+                                        <p><a class="more-link" href="https://jackbuildgh.com/" target="_blank"><i class="fas fa-external-link-alt"></i>Find out more</a></p>
+                                    </div><!--//desc-->                          
+                                </div><!--//item-->
+
+                                <div class="item col-md-6">
+                                    <a class="col-12" href="https://jackbuildgh.com/" target="_blank">
+                                    <img class="img-fluid project-image rounded shadow-sm" src="{{asset('images/projects/project-5.png')}}" alt="project name" />
+                                    </a>
+                                    <div class="desc col-12">
+                                        <h3 class="title"><a href="http://primeegiftcard.com/" target="_blank">PRIME E-GIFT CARD</a></h3>
+                                        <p><a class="more-link" href="https://jackbuildgh.com/" target="_blank"><i class="fas fa-external-link-alt"></i>view project</a></p>
+                                    </div><!--//desc-->                          
+                                </div><!--//item-->
+                            </div>
                             
                         </div><!--//content-->  
                     </div><!--//section-inner-->                
                 </section><!--//section-->
                                 
-                <section class="experience section">
+                {{-- <section class="experience section">
                     <div class="section-inner shadow-sm rounded">
                         <h2 class="heading">Work Experience</h2>
                         <div class="content">
@@ -105,7 +134,7 @@
                             
                         </div><!--//content-->  
                     </div><!--//section-inner-->                 
-                </section><!--//section-->
+                </section> --}}<!--//section-->
             </div><!--//primary-->
             <div class="secondary col-lg-4 col-12">
                  <aside class="info aside section">
@@ -114,7 +143,8 @@
                         <div class="content">
                             <ul class="list-unstyled">
                                 <li><i class="fas fa-map-marker-alt"></i><span class="sr-only">Location:</span>Accra, Ghana</li>
-                                <li><i class="fas fa-envelope"></i><span class="sr-only">Email:</span><a href="#">nurudeenh@gmail.com</a></li>
+                                <li><i class="fas fa-envelope"></i><span class="sr-only">Email:</span><a href="mailto:nurudeenh@gmail.com">nurudeenh@gmail.com</a></li>
+                                <li><i class="fas fa-phone"></i><span class="sr-only">Phone:</span><a href="tel:+233546428003">+233 54 642 8003</a></li>
                                 <li><i class="fas fa-link"></i><span class="sr-only">Website:</span><a href="{{url('/')}}">https://www.nurudeenhabibu.com</a></li>
                             </ul>
                         </div><!--//content-->  
@@ -137,6 +167,13 @@
                                         </div>                                      
                                     </div><!--//level-bar-->                                 
                                 </div><!--//item-->
+                                <div class="item">
+                                    <h3 class="level-title">PHP (Symfony)<span class="level-label" data-placement="left" data-animation="true" >Base</span></h3>
+                                    <div class="level-bar">
+                                        <div class="level-bar-inner" data-level="90%">
+                                        </div>                                      
+                                    </div><!--//level-bar-->                                 
+                                </div><!--//item-->
                                 
                                 <div class="item">
                                     <h3 class="level-title">MySql &amp; PostgreSql<span class="level-label" data-placement="left" data-animation="true" >Medium</span></h3>
@@ -148,14 +185,6 @@
 
                                 <div class="item">
                                     <h3 class="level-title">Javascript &amp; jQuery<span class="level-label" data-placement="left" data-animation="true" >Base</span></h3>
-                                    <div class="level-bar">
-                                        <div class="level-bar-inner" data-level="90%">
-                                        </div>                                      
-                                    </div><!--//level-bar-->                                 
-                                </div><!--//item-->
-                                
-                                <div class="item">
-                                    <h3 class="level-title">Vuejs<span class="level-label" data-placement="left" data-animation="true" >Medium</span></h3>
                                     <div class="level-bar">
                                         <div class="level-bar-inner" data-level="90%">
                                         </div>                                      
@@ -206,7 +235,7 @@
                             <ul class="list-unstyled">
                                 <li class="item">
                                     <span class="title"><strong>English:</strong></span>
-                                    <span class="level">Native Speaker <br class="visible-xs"/><i class="fas fa-star"></i> <i class="fas fa-star"></i> <i class="fas fa-star"></i> <i class="fas fa-star"></i> <i class="fas fa-star"></i> </span>
+                                    <span class="level">Fluent Speaker <br class="visible-xs"/><i class="fas fa-star"></i> <i class="fas fa-star"></i> <i class="fas fa-star"></i> <i class="fas fa-star"></i> <i class="fas fa-star"></i> </span>
                                 </li><!--//item-->
                                 {{--<li class="item">
                                     <span class="title"><strong>Spanish:</strong></span>
@@ -218,7 +247,7 @@
                 </aside><!--//section-->
                  
                 
-                <aside class="list music aside section">
+                {{-- <aside class="list music aside section">
                     <div class="section-inner shadow-sm rounded">
                         <h2 class="heading">Project Executions</h2>
                         <div class="content">
@@ -237,7 +266,7 @@
                             </ul>
                         </div><!--//content-->
                     </div><!--//section-inner-->
-                </aside><!--//section--> 
+                </aside> --}}<!--//section--> 
             </div><!--//secondary-->    
         </div><!--//row-->
     </div><!--//masonry-->

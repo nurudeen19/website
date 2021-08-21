@@ -33,11 +33,9 @@
             <img class="profile-image img-fluid float-left rounded-circle" src="{{asset('images/nuru.jpg')}}" alt="profile image" width="160" />
             <div class="profile-content float-left">
                 <h1 class="name">Nurudeen Habibu</h1>
-                <h2 class="desc">Web App Developer</h2> 
+                <h2 class="desc">Web Developer</h2> 
                 <ul class="social list-inline">
-                    <li class="list-inline-item"><a href="https://web.facebook.com/jbronzy"><i class="fab fa-facebook"></i></a></li>
-                    <li class="list-inline-item"><a href="https://twitter.com/jbronzy"><i class="fab fa-twitter"></i></a></li>
-                    <li class="list-inline-item"><a href="https://www.linkedin.com/in/habibu-nurudeen-b1626162/"><i class="fab fa-linkedin-in"></i></a></li>
+                    <li class="list-inline-item"><a href="https://www.linkedin.com/in/nurudeen-habibu"><i class="fab fa-linkedin-in"></i></a></li>
                     <li class="list-inline-item"><a href="https://github.com/nurudeen19"><i class="fab fa-github-alt"></i></a></li>
                 </ul> 
             </div><!--//profile-->
